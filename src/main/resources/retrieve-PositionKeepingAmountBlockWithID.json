@@ -1,0 +1,9 @@
+{
+  "date" : "2018-05-29",
+  "amountBlockReference" : "789456123",
+  "amount" : "999",
+  "dateType" : "START",
+  "transactionJournalReference" : "TJR432",
+  "priority" : "PRIORITY1",
+  "amountBlockType" : "FINAL"
+}

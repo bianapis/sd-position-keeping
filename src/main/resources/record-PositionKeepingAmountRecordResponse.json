@@ -1,0 +1,11 @@
+{
+  "date" : "2018-09-06",
+  "amountBlockReference" : "ABR212",
+  "amount" : "$5000",
+  "dateType" : "START",
+  "transactionJournalReference" : "TJR432",
+  "recordingRecordReference" : "RRR4678",
+  "priority" : "high",
+  "amountBlockType" : "pending or final",
+  "recordingRecordStatus" : "Applied"
+}

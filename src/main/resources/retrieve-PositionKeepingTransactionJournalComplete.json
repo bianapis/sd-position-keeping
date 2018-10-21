@@ -1,0 +1,14 @@
+{
+  "transactionJournalType" : "TYPE1",
+  "authorization" : "REFERENCE",
+  "productInstanceReference" : "484DF5S1S84",
+  "initiationDate" : "2018-05-29",
+  "transactionJournalReference" : "456123789",
+  "customerReference" : "159482637",
+  "counterpartyReference" : "A1A4F8X1D45",
+  "accountingJurisdictionOrCompliance" : "accountingJurisdictionOrCompliance",
+  "positionLimitsAndRules" : "['1000$', '$INCOME<500$']",
+  "interestAllocationRules" : "['$INCOME<500$','$OUTCOME>=10000$']",
+  "baseCurrency" : "USD",
+  "status" : "ACTIVE"
+}

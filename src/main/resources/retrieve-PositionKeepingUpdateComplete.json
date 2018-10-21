@@ -1,0 +1,8 @@
+{
+  "transactionJournalReference" : "456123789",
+  "updateReference" : "789456123",
+  "journalUpdatePurpose" : "Purpose of update journal",
+  "journalUpdateResult" : {},
+  "journalUpdateEmployeeReference" : "A1A4F8X1D45",
+  "journalUpdateDescription" : "Description for update journal"
+}

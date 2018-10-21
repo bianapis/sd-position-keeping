@@ -1,0 +1,10 @@
+{
+  "postingValueDate" : "2018-09-06T00:00:00.000Z",
+  "transactionJournalReference" : "TJR432",
+  "recordingRecordReference" : "RRR4678",
+  "postingPurpose" : "to record",
+  "postingReference" : "ABR212",
+  "postingAmount" : "$5000",
+  "postingResult" : "Success",
+  "recordingRecordStatus" : "Applied"
+}

@@ -1,0 +1,9 @@
+{
+  "reportingServiceReference" : "RSR22",
+  "reportingPeriod" : "201702-21801",
+  "transactionJournalReference" : "TJR432",
+  "report" : "9KFSD9FC6",
+  "journalReportType" : "TYPE1",
+  "reportingResult" : {},
+  "positionKeepingServiceReference" : "PKSR523"
+}

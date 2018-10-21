@@ -1,0 +1,8 @@
+{
+  "transactionJournalReference" : "456123789",
+  "updateReference" : "UR1234",
+  "journalUpdatePurpose" : "refresh",
+  "journalUpdateResult" : "Success",
+  "journalUpdateEmployeeReference" : "JUER121",
+  "journalUpdateDescription" : "Journal Update"
+}
